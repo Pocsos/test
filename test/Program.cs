@@ -6,7 +6,9 @@ namespace test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-        }
+            int elsoszam = int.Parse(Console.ReadLine());
+            int masodikszam = int.Parse(Console.ReadLine());
+
+        }  
     }
 }
